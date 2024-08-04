@@ -1,0 +1,37 @@
+- 1.1.13
+- _NAME: G305 Lightspeed Wireless Gaming Mouse
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, report_rate_extended, pointer_speed, dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in,
+    backlight_duration_powered, backlight-timed, rgb_control, rgb_zone_, brightness_control, per-key-lighting, fn-swap, reprogrammable-keys, persistent-remappable-keys,
+    divert-keys, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures,
+    gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4096
+  _modelId: '407400000000'
+  _sensitive: {hires-scroll-mode: ignore, hires-smooth-invert: ignore, hires-smooth-resolution: ignore}
+  _serial: D46F74F9
+  _unitId: 88B108D1
+  _wpid: '4074'
+  dpi: 1550
+  led_control: 0
+  onboard_profiles: 1
+  report_rate: 1
+- _NAME: MX Mechanical Mini
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, report_rate_extended, pointer_speed, dpi, dpi_extended, speed-change, backlight_level, backlight_duration_hands_out,
+    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, led_control, led_zone_, rgb_control, rgb_zone_, brightness_control, per-key-lighting,
+    reprogrammable-keys, persistent-remappable-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert,
+    gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 4100
+  _modelId: B36700000000
+  _sensitive: {backlight: true, change-host: false, disable-keyboard-keys: false, divert-keys: false, hires-scroll-mode: ignore, hires-smooth-invert: ignore,
+    hires-smooth-resolution: ignore}
+  _serial: 5AEA7221
+  _unitId: 5AEA7221
+  _wpid: B367
+  backlight: 255
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {212: 0, 226: 0, 227: 0, 231: 0, 232: 0, 233: 0, 259: 0, 264: 0, 266: 1, 267: 0, 268: 0, 269: 0, 270: 0, 271: 0, 272: 0, 273: 0, 274: 0,
+    277: 0, 279: 0, 280: 0, 281: 0, 282: 0, 283: 0, 284: 1, 286: 0, 316: 0, 321: 0}
+  fn-swap: true
+  multiplatform: 0
